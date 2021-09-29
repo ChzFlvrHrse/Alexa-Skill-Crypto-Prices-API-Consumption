@@ -14,7 +14,7 @@ sb.add_request_handler(intents.CancelOrStopIntentHandler())
 sb.add_request_handler(intents.HelloWorldIntentHandler())
 sb.add_request_handler(intents.SessionEndedRequestHandler())
 sb.add_request_handler(intents.GetCryptoPricesIntentHandler())
-sb.add_request_handler(intents.IntentReflectorHandler()) # Register this one last
+sb.add_request_handler(intents.IntentReflectorHandler()) 
 
 app = Flask(__name__)
 skill_id = 'amzn1.ask.skill.172383ce-082b-4e74-a96e-158e12ea41e0'
