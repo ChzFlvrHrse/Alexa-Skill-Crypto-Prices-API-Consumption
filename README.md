@@ -2,7 +2,6 @@
   # -coin prices
 # Interaction Commands:
   # - what are the top coin prices
-  # - give me the top coin prices
-  # - give me coin prices
+  # - tell me the top crypto prices
   # - give me crypto prices
-  # - top coin prices
+  # - give me coin prices
