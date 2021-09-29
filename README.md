@@ -1,6 +1,6 @@
 # Invocation:
   # -coin prices
-# Interaction Commands (case sensitive)
+# Interaction Commands:
   # - what are the top coin prices
   # - give me the top coin prices
   # - give me coin prices
